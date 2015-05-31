@@ -1,0 +1,1 @@
+Just a case study. Based on the idea from http://thesz.livejournal.com/, implemented it a little bit differently
